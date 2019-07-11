@@ -125,7 +125,7 @@
 					<region>${region}</region>
 					<targetType>server</targetType>
 					<redeploy>true</redeploy>
-					<applicationName>${project.artifactId}-${env}</applicationName>
+					<applicationName>mavenfirst</applicationName>
 					<workerType>${worker.type}</workerType>
 					<properties>
 						<env>${env}</env>								
